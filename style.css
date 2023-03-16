@@ -1,0 +1,14 @@
+h1 {color:darkslateblue;}
+body {background: rgb(219, 219, 219);}
+p {color:rgb(11, 98, 83);}
+
+body {
+    font-family: "Helvetica", "Arial", sans-serif;
+  }
+
+body {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
